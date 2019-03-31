@@ -1,0 +1,8 @@
+{
+    "admin":{
+        "username":"",
+        "password":""
+    },
+    "remoteAddr":"",
+    "remotePort":""
+}
